@@ -5,7 +5,7 @@ Project title: Credit Risk Evaluation using Machine Learning
 
 Data Source: https://www.kaggle.com/competitions/home-credit-default-risk/data
 
-Datasets needed to run the program: application_train.csv (Included in the submission)
+Datasets needed to run the program: application_train.csv
 
 
 To run the code:
